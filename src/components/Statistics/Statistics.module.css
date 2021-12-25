@@ -1,0 +1,17 @@
+.statistics {
+  font-family: 'Roboto';
+  display: flex;
+  font-size: 24px;
+  justify-content: space-evenly;
+  margin-bottom: 5px;
+}
+
+.total {
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.positive {
+  font-size: 20px;
+  font-weight: 700;
+}

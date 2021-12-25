@@ -1,0 +1,11 @@
+.section {
+  font-family: 'Roboto';
+  text-align: center;
+  padding: 5px 15px;
+  margin: 0 auto;
+  width: 400px;
+  background-color: rgba(177, 177, 177, 0.8);
+}
+.title {
+  margin-bottom: 10px;
+}
